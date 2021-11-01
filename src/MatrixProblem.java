@@ -18,6 +18,9 @@ public class MatrixProblem {
 	    
 	    matrixDiagonalElementSum(x);
 	    
+	    
+	    
+	    
 	    matrixMinorDiagonalElementSum(x);
 	    
 	    matrixScalerProduct(x, 3);
